@@ -2,11 +2,6 @@
 // Created by Divya Patel on 25/12/21.
 //
 
-//#ifndef CPP_ADD_HPP
-//#define CPP_ADD_HPP
-//
-//#endif //CPP_ADD_HPP
-
 #include "fstream"
 #include "iostream"
 using namespace std;

@@ -2,12 +2,6 @@
 // Created by Divya Patel on 25/12/21.
 //
 
-//#ifndef CPP_HELP_HPP
-//#define CPP_HELP_HPP
-//
-//#endif //CPP_HELP_HPP
-
-
 void help() {
     std::cout<<"Usage :-\n";
     std::cout<<"$ ./task add 2 hello world    # Add a new item with priority 2 and text \"hello world\" to the list\n";

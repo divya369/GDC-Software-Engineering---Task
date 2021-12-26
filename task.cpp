@@ -1,3 +1,5 @@
+// Still need to remove redundancy
+
 #include <iostream>
 #include "functions/help.hpp"
 #include "functions/add.hpp"

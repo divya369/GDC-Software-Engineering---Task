@@ -2,11 +2,6 @@
 // Created by Divya Patel on 26/12/21.
 //
 
-//#ifndef CPP_CREATELINKEDLIST_HPP
-//#define CPP_CREATELINKEDLIST_HPP
-//
-//#endif //CPP_CREATELINKEDLIST_HPP
-
 #include "fstream"
 #include "iostream"
 #include "Node.hpp"
